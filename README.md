@@ -10,3 +10,4 @@
 ## Configuração de ambiente
 - npm i yarn
 - npm install apollo-server graphql 
+- npm i nodemon
